@@ -262,7 +262,8 @@ a{
 	float:left;
 }
 .mid{
-	width:100%;
+	margin:0 auto;
+	width:1180px;
 	height:550px;
 	background-color: #f8f7f6;
 }
